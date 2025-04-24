@@ -1,0 +1,14 @@
+· Repo de GitHUB:
+https://github.com/mouredev/Hello-Python
+
+· Vídeos:
+  - Curso COMPLETO de PYTHON desde CERO para PRINCIPIANTES:
+    https://www.youtube.com/watch?v=Kp4Mvapo5kc (COMPLETADO)
+  - Curso COMPLETO de PYTHON desde CERO para PRINCIPIANTES [Intermedio]:
+    https://www.youtube.com/watch?v=TbcEqkabAWU (COMPLETADO)
+  - Curso COMPLETO de PYTHON desde CERO para BACKEND:
+    https://www.youtube.com/watch?v=_y9qQZXE24A
+	MIN 7:35:00
+	
+· El tutorial de python:
+https://docs.python.org/es/3/tutorial/
